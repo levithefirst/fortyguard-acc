@@ -1,0 +1,5 @@
+{
+  "_note": "Replace this file with a real captured FortyGuard response once the live API call works (architecture.md build order, step 5). This is the permanent replay fixture that keeps the demo functional if live access lapses after the hackathon.",
+  "temperature_f": 108,
+  "captured_at": "2026-08-09T16:00:00-07:00"
+}
